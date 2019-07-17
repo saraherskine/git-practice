@@ -1,7 +1,8 @@
 # ENG 101: English Composition
 ## Fall 2019
 *Sarah Erskine*  
-*serskine@schoolcraft.edu*
+*serskine@schoolcraft.edu*  
+Wednesdays at 1PM
 
 ## **Schedule**
 
@@ -9,6 +10,8 @@
 - Week 2
 - Week 3
 - Week 4
+- Week 5
+- Week 6
 
 
 
